@@ -1,0 +1,16 @@
+- name: Home
+  link: /
+- name: Video
+  link: /video.html
+- name: Audio
+  link: /audio.html
+- name: Text
+  link: text.html
+- name: Staff
+  link: /staff.html
+- name: Mission
+  link: /mission.html
+- name: Contact
+  link: /contact.html
+- name: Blog
+  link: /blog.html
