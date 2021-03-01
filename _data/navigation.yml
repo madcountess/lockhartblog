@@ -1,16 +1,16 @@
 - name: Home
   link: /
+- name: All Media
+  link: /allmedia.html
 - name: Video
-  link: /video.html
+  link: /sections/video.html
 - name: Audio
-  link: /audio.html
+  link: /sections/audio.html
 - name: Text
-  link: text.html
-- name: Staff
-  link: /staff.html
+  link: /sections/text.html
+- name: Blog
+  link: /sections/blog.html
 - name: Mission
   link: /mission.html
 - name: Contact
   link: /contact.html
-- name: Blog
-  link: /blog.html

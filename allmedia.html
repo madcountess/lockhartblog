@@ -1,0 +1,12 @@
+---
+layout: default
+title: All Media
+---
+<h1>Media Sections</h1>
+
+  {% for section in site.sections %}
+      <h2><a href="{{ section.url }}">{{ section.name }}</a></h2>
+      <h3>{{ section.mtype }}</h3>
+      <p>{{ section.content | markdownify }}</p>
+      <hr>
+  {% endfor %}

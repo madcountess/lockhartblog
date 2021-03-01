@@ -17,4 +17,4 @@ layout: default
 ---
 
 ## Email
-### [contact@peoplesbayonet.org](mailto:contact@peoplesbayonet.org)
+### [contact@peoplesbayo.net](mailto:contact@peoplesbayo.net)
