@@ -2,6 +2,18 @@
 title: Contact Us / Social Media
 layout: default
 ---
+# Support
+
+---
+
+## Patreon
+### [PeoplesBayonet](https://patreon.com/peoplesbayonet)
+
+---
+
+## Cashapp
+### [$peoplesbayonet](https://cash.app/$peoplesbayonet)
+---
 # Social Media
 
 ---

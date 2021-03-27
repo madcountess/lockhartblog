@@ -1,16 +1,12 @@
-- name: Home
+- name: Home / About
   link: /
-- name: All Media
-  link: /allmedia.html
-- name: Video
-  link: /sections/video.html
-- name: Audio
-  link: /sections/audio.html
-- name: Text
-  link: /sections/text.html
+- name: Mission
+  link: /missionstatement.html
+- name: Media
+  link: /sections/media.html
 - name: Blog
   link: /sections/blog.html
-- name: Mission
-  link: /mission.html
-- name: Contact
+- name: Contact / Support
   link: /contact.html
+- name: Feed / Atom
+  link: /feed.xml

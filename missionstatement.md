@@ -6,8 +6,12 @@ layout: default
 
 ### We Are The **Workers**
 
-A New South will rise from the ashes of the old to throw out the parasites, to dump the bosses off our backs, to unite against yesterday's oppressors for a brighter South tomorrow!  
-We southerners ain't stupid, we know what's happening, we know the people in charge don't give a single damn about us!  
+A New South will rise from the ashes of the old to throw out the parasites,  
+to dump the bosses off our backs,  
+to unite against yesterday's oppressors for a brighter South tomorrow!  
+We southerners ain't stupid,  
+we know what's happening,  
+we know the people in charge don't give a single damn about us!  
 We know they think we're idiots for "MaKiNg BaD dEcIsIoNs" like we got a choice.  
 We know they think we're disposable because we're "idiots."  
 We know they treat us like chattel because we're "disposable."  
