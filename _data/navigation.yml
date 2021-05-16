@@ -6,8 +6,8 @@
   link: /sections/media.html
 - name: Blog
   link: /sections/blog.html
-- name: Electronics
-  link: /sections/electronics.html
+##- name: Electronics
+##  link: /sections/electronics.html
 - name: Contact / Support
   link: /support.html
 - name: Feed / Atom
