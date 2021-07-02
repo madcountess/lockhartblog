@@ -1,7 +1,7 @@
 ---
 layout: post
 section: blog
-date: 2016-11-09
+date: 2016-10-30
 ---
 A Slut's Glossary
 
@@ -232,4 +232,4 @@ their physical appearance. See gender.
 
 WINGMAN A friend who helps steer potential partners your way. A current or
 former lover can make an excellent wingman—who knows more about what makes
-you desirable than someone who has desired you? 
+you desirable than someone who has desired you?

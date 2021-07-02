@@ -1,11 +1,9 @@
 ---
 layout: post
 section: blog
-date: 2016-11-09
+date: 2016-10-31
 ---
-CONCLUSION
-
-
+CONCLUSION:  
 A SLUT UTOPIA
 
 
@@ -121,4 +119,4 @@ choose to love or how you choose to express that love, except yourself and your
 lovers. We dream of a time and a place where we will all be free to publicly declare
 our love, for whomever we love, however we love them.
 
-And may we all look forward to a lifetime of dreams come true. 
+And may we all look forward to a lifetime of dreams come true.
