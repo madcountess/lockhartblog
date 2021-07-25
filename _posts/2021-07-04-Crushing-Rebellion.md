@@ -31,19 +31,52 @@ I'll check back in later.
 
 My mark is the growing group of communists,  
 known as The People's Bayonet,  
-lead by a woman named Bay.  
-She is a talented propagandist,  
-but she's certainly more bark than bite.  
-I bet she likes a challenge.  
+lead by a person named Bay.  
+They is a talented propagandist,  
+but they's certainly more bark than bite.  
+I bet they likes a challenge.  
 Ginger twink with a hormone addiction,  
 Bay is definitely operating at cost.  
-if I need to, I'll use her economic vulnerabilities against her,  
+if I need to, I'll use they economic vulnerabilities against them,  
 I know what it's like to be that low...
 
 Regardless, the work must be done.  
 Communism is an existential threat for these United States.  
 I find my way through the internet to this group,  
-and first contact comes from... Bay herself.  
+and first contact comes from... Bay themself.  
+
+We agreed to meet on the condition that we meet alone,  
+with no devices, and no weapons.  
+That seemed a little... excessive, but I mean,  
+they is literally watching out for people like me.  
+I spoke with her online, late at night around 9:30 or 10PM,  
+and I'm not sure it went particularly well for me.  
+
+Bay: This restaurant, downtown,  
+I know the workers there,  
+they have a back room for us.  
+
+Lockhart: That seems like a trap, to be honest.  
+
+Bay: Do we have a reason to trap you?  
+
+Lockhart: Well, not... really?  
+Y'all seem like a very spiky org,  
+Honestly, I'm just worried about getting jumped for being a perceived threat.
+
+Bay: Honestly, you worry too much.  
+If it helps, you can tell a friend where you're going,  
+but they can't come with.  
+
+Lockhart: Okay, deal.  
+
+Bay: Tonight, 10:30, be there if you really are ready to act.  
+
+Lockhart recoils from the screen, "Wait, tonight?  
+I can't organize a... response... right.  
+That's probably why."  
+
+Lockhart: 10:30, see you soon!  
 
 Lockhart: Hey there, comrade, any illegal crime plans?  
 
