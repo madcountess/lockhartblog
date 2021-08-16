@@ -72,11 +72,38 @@ Lockhart: Okay, deal.
 
 Bay: Tonight, 10:30, be there if you really are ready to act.  
 
-Lockhart recoils from the screen, "Wait, tonight?  
+I recoiled from the screen, "Wait, tonight?  
 I can't organize a... response... right.  
 That's probably why."  
 
 Lockhart: 10:30, see you soon!  
+
+Well, here goes nothing, I suppose.  
+I'll just pack my boot knife in case I'm really walking into a trap,  
+I can just say I forgot it was there.  
+Man, not having a phone is gonna make it really difficult to find my way there,  
+maybe...
+
+\*phone rings*  
+
+LH: Hello? Do you think I could get a ride to a job?
+
+Friend: At 10:05? What are you even getting into this time?
+
+LH: Well, it's complicated, I'll tell you on the way!
+
+I had no intention to do such a thing,  
+but it's not like I can tell him nothing.  
+I'm just coming in to talk to the manager or something,  
+yeah, that'll work.
+
+\*loud honk*  
+Friend: Get in!  
+
+\*car driving away*  
+I hope it takes a while for him to realize I'm messing with him...  
+Still, this is a nicer restaurant than I expected,  
+
 
 Lockhart: Hey there, comrade, any illegal crime plans?  
 

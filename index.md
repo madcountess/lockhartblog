@@ -1,5 +1,5 @@
 ---
-title: New South Radio
+title: New South Radio (auto-mode)
 layout: default
 ---
 # Ahoy hoy! **Welcome to the New South!**
