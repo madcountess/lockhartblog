@@ -1,5 +1,5 @@
 ---
-title: New South Radio (auto-mode)
+title: New South Radio / The People's Bayonet
 layout: default
 ---
 # Ahoy hoy! **Welcome to the New South!**
