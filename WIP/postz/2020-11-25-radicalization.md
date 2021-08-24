@@ -23,7 +23,7 @@ First, middle, and last.
 Danger gives us a goal.  
 Danger gives us the goal of survival.  
 We are driven to danger because complacency isn't safety.  
-Safety in the presence of oppressive forces isn't safety  
+Safety in the presence of oppressive forces isn't safety, it's complacency.  
 Complacency within a market society is the comfort of the oppressor being spread to the preferred group.  
 Complacency is knowing the oppression won't fall upon your shoulders.  
 We tire of complacency because that oppression falls upon the shoulders of our friends.  
