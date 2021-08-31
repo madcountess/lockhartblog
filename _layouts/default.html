@@ -30,16 +30,27 @@
     flex-direction: row;
   }
   .flex-nav {
-    flex: 20%;
+    flex: 15%;
     justify-content: space-between;
     flex-direction: column;
-    padding: 10px;
-    text-align: right;
-    align-items: space-around;
+    padding: 5px;
+    text-align: center;
 
+    background-color: #222
+  }
+    .flex-nav a {
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+  }
+
+  /* Change color on hover */
+  .flex-nav a:hover {
+    background-color: #555;
+    color: red;
   }
   .flex-body {
-    flex: 80%;
+    flex: 85%;
     align-items: column;
     text-align: left;
   }
@@ -70,21 +81,26 @@
   {{ content }}
   </div>
   <div class="flex-nav">
-    Navigation:
+    Navigation: <br>
     <div>
       {% for item in site.data.navigation %}
-      <div style="padding: 5px">
+      <div style="padding: 14px">
         <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% else %}class="inactive"{% endif %}>{{ item.name }}</a>
       </div>
       {% endfor %}
     </div>
       <br>
-      Media Links:
+      Media Links: <br> <br>
     <div>
       {% for item in site.data.media[page.lindex] %}
-      <div style="padding: 5px">
-      <a href="{{ item.link }}">{{ item.name }} <br> {{ item.size }}</a>
+      {{ item.name }}
+      <div style="padding: 14px">
+      <a href="{{ item.link }}">
+        {{ item.site }}
+      </a>
       </div>
+      {{ item.size }}
+      {{ item.format }}
       {% endfor %}
     </div>
   </div>

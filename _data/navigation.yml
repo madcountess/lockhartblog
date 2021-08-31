@@ -1,4 +1,4 @@
-- name: Home / About
+- name: About
   link: /
 - name: Mission
   link: /missionstatement.html
@@ -8,7 +8,7 @@
   link: /sections/blog.html
 ##- name: Electronics
 ##  link: /sections/electronics.html
-- name: Contact / Support
+- name: Support
   link: /support.html
-- name: Feed / Atom
+- name: Feed
   link: /feed.xml
