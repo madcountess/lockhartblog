@@ -2,7 +2,7 @@
 title: New South Radio / The People's Bayonet
 layout: default
 headline: Ahoy Hoy! Welcome to the New South!
-summary: I'm Luna, but you can call me the <b>People's Bayonet!</b><br><br>what
+summary: I'm Luna, but you can call me the <b>People's Bayonet!</b>
 ---
 
 

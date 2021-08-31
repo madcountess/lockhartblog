@@ -1,5 +1,5 @@
-source: /home/peoplesb/blog/lockhartblog/
-destination: /home/peoplesb/public_html/
+#source: /home/peoplesb/blog/lockhartblog/
+#destination: /home/peoplesb/public_html/
 collections:
   sections:
     output: true
