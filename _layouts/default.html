@@ -39,7 +39,7 @@
     background-color: #222
   }
     .flex-nav a {
-    padding: 14px 20px;
+    padding: 5px 10px;
     text-decoration: none;
     text-align: center;
   }
@@ -84,7 +84,7 @@
     Navigation: <br>
     <div>
       {% for item in site.data.navigation %}
-      <div style="padding: 14px">
+      <div style="padding: 5px">
         <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% else %}class="inactive"{% endif %}>{{ item.name }}</a>
       </div>
       {% endfor %}
