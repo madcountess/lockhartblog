@@ -1,6 +1,5 @@
 <!doctype html>
 <html>
-<center>
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
@@ -10,10 +9,80 @@
   a {
     color: pink;
   }
+
+  .flex-top {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+  }
+
+  .flex-header {
+
+  }
+
+  .flex-header > div {
+
+  }
+  .flex-main {
+    display: flex;
+    flex-direction: row;
+  }
+  .flex-nav {
+    flex: 20%;
+    justify-content: space-between;
+    flex-direction: column;
+
+  }
+  .flex-body {
+    flex: 80%;
+    align-items: column;
+    text-align: left;
+  }
+
   </style>
-  <body style="background-color: #32353B;color: #DCDDDE;">
-    {% include navigation.html %}
-    {{ content }}
-  </body>
-  </center>
+<body style="background-color: #222222;color: #EEEEEE; flex-direction: column;">
+
+<div class="flex-top">
+  <div style="flex: 10%">
+    <img src="http://peoplesbayo.net/logo.svg">
+  </div>
+  <div style="flex: 90%;text-align: center;">
+    <h1>{{ page.headline }}</h1>
+      {{ page.summary }}
+    <p>
+      {{ page.date | date_to_string }}
+      {% assign section = site.sections | where: 'short_name', page.section | first %}
+      {% if section %}
+        - <a href="{{ section.url }}">{{ section.name }}</a>
+      {% endif %}
+    </p>
+  </div>
+</div>
+</div>
+
+<div class="flex-main">
+  <div class="flex-body">
+  {{ content }}
+  </div>
+  <div class="flex-nav">
+  <div style="align-items: space-around;">
+    {% for item in site.data.navigation %}
+    <div style="padding: 5px">
+      <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% else %}class="inactive"{% endif %}>{{ item.name }}</a>
+    </div>
+    {% endfor %}
+  </div>
+  <br>
+  <div>
+    {% for item in site.data.media[page.lindex] %}
+    <div style="padding: 5px">
+    <a href="{{ item.link }}">{{ item.name }} <br> {{ item.size }}</a>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+</div>
+</body>
 </html>

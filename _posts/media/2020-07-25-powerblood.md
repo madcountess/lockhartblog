@@ -2,10 +2,9 @@
 layout: post
 section: media
 date: 2020-07-25
+headline: Power in The Blood | A Sermon
+summary: God Bless The Workers.
 ---
-
-##	Power in The Blood: A Sermon  
-God Bless The Workers.  
 [Video (High Data/Stream) {Youtube}](https://www.youtube.com/watch?v=6xahs9z8CEA)  
 [Video (8.9MB .webm) {Dropbox}](https://www.dropbox.com/s/nu06g96xi2f6vrp/2020-07-25-powerblood.webm?dl=1)  
 [Audio (462kB .opus) {Dropbox}](https://www.dropbox.com/s/cnwfcsqa1mdrr4q/2020-07-25-powerblood.opus?dl=1)  

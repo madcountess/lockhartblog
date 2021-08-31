@@ -2,10 +2,9 @@
 layout: post
 section: media
 date: 2020-02-02
+headline: Are People Inherently Stupid? (Problem 10)
+summary: A Treatise On Essentialist Neoliberal Intellectualism, IQ, and Anti-Intellectualism
 ---
-
-##	Are People Inherently Stupid? (Problem 10)
-A Treatise On Essentialist Neoliberal Intellectualism, IQ, and Anti-Intellectualism  
 [Video (High Data/Stream) {Youtube}](https://www.youtube.com/watch?v=Y-CXoarUvJg)  
 [Video (31.5MB .webm) {Dropbox}](https://www.dropbox.com/s/um394m36od8xy9z/2020-02-02-intellectualism.webm?dl=1)  
 [Audio (2.1MB .opus) {Dropbox}](https://www.dropbox.com/s/brwmddbzb0gkmpn/2020-02-02-intellectualism.opus?dl=1)  

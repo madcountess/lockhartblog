@@ -2,12 +2,9 @@
 layout: post
 section: media
 date: 2019-07-20
+headline: Why Do We Buy Experiences?
+summary: Buy Experiences! Not Things! Carpe Diem! It's really interesting how insidious this very relatable idea is, and what implications it has in its commonplace, near quotidian state.  
 ---
-
-##	Why Do We Buy Experiences?
-Buy Experiences! Not Things! Carpe Diem!  
-It's really interesting how insidious this very relatable idea is,  
-and what implications it has in its commonplace, near quotidian state.  
 [Video (High Data/Stream) {Youtube}](https://www.youtube.com/watch?v=F2bw9e_lL_o)  
 [Video (14.1MB .webm) {Dropbox}](https://www.dropbox.com/s/15zmnsc047xq10w/2019-07-20-experiences.webm?dl=1)  
 [Audio (622.5kB .opus) {Dropbox}](https://www.dropbox.com/s/35rg8xv2xzpdioj/2019-07-20-experiences.opus?dl=1)  

@@ -2,9 +2,10 @@
 layout: post
 section: blog
 date: 2021-08-13
+headline: What Motivates Me to Revolution?  
+summary: The Human Element is worth the struggle and bloodshed, because true freedom will give us more time with each-other.
 ---
 
-## What Motivates Me to Revolution?  
 The Human Element is worth the struggle and bloodshed,  
 because true freedom will give us more time with each-other.
 

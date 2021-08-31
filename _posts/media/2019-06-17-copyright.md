@@ -2,10 +2,10 @@
 layout: post
 section: media
 date: 2019-06-17
+headline: Why Don't I Own My Work?
+summary: Copyright and Intellectual Property | The Artistic Ship of Theseus
 ---
 
-## Why Don't I Own My Work?  
-Copyright and Intellectual Property: The Artistic Ship of Theseus  
 [Video (High Data/Stream) {Youtube}](https://www.youtube.com/watch?v=2vAEeK67lSE)  
 [Video (18.8MB .webm) {Dropbox}](https://www.dropbox.com/s/giayd6kcc9dbt0s/2019-06-17-copyright.webm?dl=1)  
 [Audio (1.2MB .opus) {Dropbox}](https://www.dropbox.com/s/q6zwza29msh3kmn/2019-06-17-copyright.opus?dl=1)  

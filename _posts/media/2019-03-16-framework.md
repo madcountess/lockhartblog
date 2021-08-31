@@ -2,10 +2,9 @@
 layout: post
 section: media
 date: 2019-03-16
+headline: How Framework Determines Your Choices
+summary: An explanation of my ideas on framework, since I'm sure that question will need answering.  
 ---
-
-## How Framework Determines Your Choices
-An explanation of my ideas on framework, since I'm sure that question will need answering.  
 [Video (High Data/Stream) {Youtube}](https://www.youtube.com/watch?v=MgWwMGPveC4)  
 [Video (-14.4MB .webm) {Dropbox}](https://www.dropbox.com/s/lkuggbv0qaknif0/2019-03-16-framework.webm?dl=1)  
 [Audio (-1.1MB .opus) {Dropbox}](https://www.dropbox.com/s/tmv5cqd0ucrbk4y/2019-03-16-framework.opus?dl=1)  

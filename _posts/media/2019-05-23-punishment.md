@@ -2,11 +2,9 @@
 layout: post
 section: media
 date: 2019-05-23
+headline: The Paradox of Punishment (The Problem 05)
+summary: Kamala the Cop, Crime, and Punishment. if only we cared about prisoners...  
 ---
-
-##	The Paradox of Punishment (The Problem 05)  
-Kamala the Cop, Crime, and Punishment.  
-if only we cared about prisoners...  
 [Video (High Data/Stream) {Youtube}](https://www.youtube.com/watch?v=qPvpnVTv54E)  
 [Video (26.1MB .webm) {Dropbox}](https://www.dropbox.com/s/zj4e0uxekwwx1c8/2019-05-23-punishment.webm?dl=1)  
 [Audio (1.6MB .opus) {Dropbox}](https://www.dropbox.com/s/5b1k405mruxb3xp/2019-05-23-punishment.opus?dl=1)  

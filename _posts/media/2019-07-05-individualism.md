@@ -2,10 +2,9 @@
 layout: post
 section: media
 date: 2019-07-05
+headline: How Does Individualism Suppress Individuality? (The Problem 06)
+summary: On Individualism, Individuality, Holism, and Collectivism. "sell out or starve in obscurity."
 ---
-
-##	How Does Individualism Suppress Individuality? (The Problem 06)  
-On Individualism, Individuality, Holism, and Collectivism. "sell out or starve in obscurity."  
 [Video (High Data/Stream) {Youtube}](https://www.youtube.com/watch?v=9gIn0EoHsQM)  
 [Video (36.2MB .webm) {Dropbox}](https://www.dropbox.com/s/gn7rf1fgm7mjspc/2019-07-05-individualism.webm?dl=1)  
 [Audio (2MB .opus) {Dropbox}](https://www.dropbox.com/s/cwu8o791sax0xys/2019-07-05-individualism.opus?dl=1)  

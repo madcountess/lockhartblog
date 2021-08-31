@@ -2,11 +2,9 @@
 layout: post
 section: media
 date: 2019-10-31
+headline: Arguments For Capitalism (Are Mostly Bull****) (Problem 08)
+summary: blah blah it's a travesty the things we have to do to get by in this world... blah blah class consciousness blah blah eat the rich.  
 ---
-
-##	Arguments For Capitalism (Are Mostly Bull****) (Problem 08)  
-blah blah it's a travesty the things we have to do to get by in this world  
-blah blah class consciousness blah blah eat the rich.  
 [Video (High Data/Stream) {Youtube}](https://www.youtube.com/watch?v=-eBMPzKvyos)  
 [Video (47MB .webm) {Dropbox}](https://www.dropbox.com/s/u3b8vbxefljd9iq/2019-10-31-capitalism.webm?dl=1)  
 [Audio (4MB .opus) {Dropbox}](https://www.dropbox.com/s/0u1jcdbbbtnsp1o/2019-10-31-capitalism.opus?dl=1)  

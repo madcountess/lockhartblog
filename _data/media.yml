@@ -1,0 +1,13 @@
+newsouth05:
+  - name: Video (Youtube)
+    link: https://www.youtube.com/watch?v=-NBkMO04yEk
+    size: High Data/Stream
+  - name: Video (Dropbox)
+    link: https://www.dropbox.com/s/82mccaepsnmggcl/2021-08-10-newsouth05.webm?dl=1
+    size: 35.5MB/webm
+  - name: Audio (Dropbox)
+    link: https://www.dropbox.com/s/ah4ssz45wbvwpby/2021-08-10-newsouth05.opus?dl=1
+    size: 2.5MB/opus
+  - name: Subtitle (Dropbox)
+    link: https://www.dropbox.com/s/h0oodtkfw22wvip/2021-08-10-newsouth05.srt?dl=1
+    size: <50KB/srt

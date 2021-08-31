@@ -2,10 +2,9 @@
 layout: post
 section: media
 date: 2019-04-09
+headline: Globalization Ruins EVERYTHING! (The Problem 04)
+summary: This Video Was Almost Called Globalism But It Turns Out That's Not What That Means Anymore  
 ---
-
-## Globalization Ruins EVERYTHING: (The Problem 04)  
-The Problem: This Video Was Almost Called Globalism But It Turns Out That's Not What That Means Anymore  
 [Video (High Data/Stream) {Youtube}](https://www.youtube.com/watch?v=CmoutCc8XSk)  
 [Video (17.5MB .webm) {Dropbox}](https://www.dropbox.com/s/91jspr29mr1wpa9/2019-04-09-globalization.webm?dl=1)  
 [Audio (1.7MB .opus) {Dropbox}](https://www.dropbox.com/s/s7w6xdi0ycf2d06/2019-04-09-globalization.opus?dl=1)  

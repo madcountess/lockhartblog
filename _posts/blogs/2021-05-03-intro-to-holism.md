@@ -2,9 +2,11 @@
 layout: post
 section: blog
 date: 2021-05-03
+headline: Introduction to Holism | I'm not insane... okay maybe a bit.
+summary: Have you ever felt switches clunk into place in your brain? have you connected thoughts that were unconnected?
 ---
 
-## Introduction to Holism: I'm not insane... okay maybe a bit.  
+
 Have you ever felt switches clunk into place in your brain?  
 have you connected thoughts that were unconnected?  
 is there something inherent about dealing the interconnectedness of the problems we face on a daily basis that keeps us from drawing these lines or what?
