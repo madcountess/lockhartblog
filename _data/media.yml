@@ -19,3 +19,45 @@ newsouth05:
     link: https://www.dropbox.com/s/h0oodtkfw22wvip/2021-08-10-newsouth05.srt?dl=1
     size: <50KB
     format: .srt
+newsouth06:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+template:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
