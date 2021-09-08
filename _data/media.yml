@@ -22,22 +22,22 @@ newsouth05:
 newsouth06:
   - name: Video
     site: (Youtube)
-    link:
+    link: https://www.youtube.com/watch?v=Wv9xx1VM0zo
     size: High Data
     format: Stream
   - name: Video
     site: (Dropbox)
-    link:
-    size:
+    link: https://www.dropbox.com/s/kh9rxnmfklqwue0/2021-09-11-newsouth06.webm?dl=1
+    size: 17.3MB
     format: .webm
   - name: Audio
     site: (Dropbox)
-    link:
-    size:
+    link: https://www.dropbox.com/s/ip1uyovvlq9jx87/2021-09-11-newsouth06.opus?dl=1
+    size: 1.8MB
     format: .opus
   - name: Subtitle
     site: (Dropbox)
-    link:
+    link: https://www.dropbox.com/s/ndyuxo6pqez25et/2021-09-11-newsouth06.srt?dl=1
     size: <50KB
     format: .srt
 template:

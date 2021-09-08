@@ -1,0 +1,14 @@
+<nav>
+  {% for item in site.data.media %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% else %}class="inactive"{% endif %}>{{ item.name }}</a>
+  {% endfor %}
+</nav>
+
+
+
+{% for item in site.data.media %}
+<a href="{{ item.vidyt }}">Stream/High Data<a/>
+<a href="{{ item.viddb }}">{{ item.viddb.size }} .webm</a>
+<a href="{{ item.auddb }}">{{ item.auddb.size }} .opus</a>
+<a href="{{ item.subdb }}">{{ item.auddb.size }} .srt</a>
+{% endfor %}
