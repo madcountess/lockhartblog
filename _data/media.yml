@@ -45,7 +45,7 @@ liberalism:
 msm:
   - name: Video
     site: (Youtube)
-    link:
+    link: https://www.youtube.com/watch?v=mTQAIO70ZZA
     size: High Data
     format: Stream
   - name: Video
@@ -463,66 +463,66 @@ memes:
 pe65000:
   - name: Video
     site: (Youtube)
-    link:
+    link: https://www.youtube.com/watch?v=QrswoUcV_P8
     size: High Data
     format: Stream
   - name: Video
     site: (Dropbox)
-    link:
-    size:
+    link: https://www.dropbox.com/s/9mfs3xca0chr9pl/2021-02-20-pe65000.webm?dl=1
+    size: 19.7MB
     format: .webm
   - name: Audio
     site: (Dropbox)
-    link:
-    size:
+    link: https://www.dropbox.com/s/hddpebrhs7j1j62/2021-02-20-pe65000.opus?dl=1
+    size: 1.4MB
     format: .opus
   - name: Subtitle
     site: (Dropbox)
-    link:
+    link: https://www.dropbox.com/s/xend6jvyx4ac64o/2021-02-20-pe65000.vtt?dl=1
     size: <50KB
     format: .srt
 
 newsouth01:
   - name: Video
     site: (Youtube)
-    link:
+    link: https://www.youtube.com/watch?v=u4SYRJlCbZo
     size: High Data
     format: Stream
   - name: Video
     site: (Dropbox)
-    link:
-    size:
+    link: https://www.dropbox.com/s/8xw4wb5ksvu317j/2021-04-01-newsouth01.webm?dl=1
+    size: 21.3MB
     format: .webm
   - name: Audio
     site: (Dropbox)
-    link:
-    size:
+    link: https://www.dropbox.com/s/fcl53mkpbmjtpo0/2021-04-01-newsouth01.opus?dl=1
+    size: 1MB
     format: .opus
   - name: Subtitle
     site: (Dropbox)
-    link:
+    link: https://www.dropbox.com/s/pgiw7atx2b4gg94/2021-04-01-newsouth01.srt?dl=1
     size: <50KB
     format: .srt
 
 newsouth02:
   - name: Video
     site: (Youtube)
-    link:
+    link: https://www.youtube.com/watch?v=AIXb5NIoisA
     size: High Data
     format: Stream
   - name: Video
     site: (Dropbox)
-    link:
-    size:
+    link: https://www.dropbox.com/s/z9xahk2q2dtrk12/2021-05-24-newsouth02.webm?dl=1
+    size: 20.2MB
     format: .webm
   - name: Audio
     site: (Dropbox)
-    link:
-    size:
+    link: https://www.dropbox.com/s/29aa8a6bg1a08lq/2021-05-24-newsouth02.opus?dl=1
+    size: 1.9MB
     format: .opus
   - name: Subtitle
     site: (Dropbox)
-    link:
+    link: https://www.dropbox.com/s/rw2umrx6r9ymxe9/2021-05-24-newsouth02.srt?dl=1
     size: <50KB
     format: .srt
 
@@ -534,17 +534,17 @@ newsouth03:
     format: Stream
   - name: Video
     site: (Dropbox)
-    link:
-    size:
+    link: https://www.dropbox.com/s/n50wgcuohmdfocs/2021-06-19-newsouth03.webm?dl=1
+    size: 22MB
     format: .webm
   - name: Audio
     site: (Dropbox)
-    link:
-    size:
+    link: https://www.dropbox.com/s/axjom2933iydb1w/2021-06-19-newsouth03.opus?dl=1
+    size: 1.6MB
     format: .opus
   - name: Subtitle
     site: (Dropbox)
-    link:
+    link: https://www.dropbox.com/s/9c2xl6qw2xibxqt/2021-06-19-newsouth03.srt?dl=1
     size: <50KB
     format: .srt
 
