@@ -1,3 +1,575 @@
+template:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+liberalism:
+  - name: Video
+    site: (Youtube)
+    link: https://www.youtube.com/watch?v=1ML8qCNCcJ0
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link: https://www.dropbox.com/s/gub2l9ie3zs3bf6/2019-02-01-liberalism.webm?dl=1
+    size: 18.3MB
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link: https://www.dropbox.com/s/bkyti7zvjd0ek5i/2019-02-01-liberalism.opus?dl=1
+    size: 1.6MB
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link: In Progress
+    size: <50KB
+    format: .srt
+
+msm:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+framework:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+globalization:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+punishment:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+copyright:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+individualism:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+msm2:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+experiences:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+equality:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+capitalism:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+wealth:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+intellectualism:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+police:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+powerblood:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+history:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+antifa:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+class:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+biden:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+memes:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+pe65000:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+newsouth01:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+newsouth02:
+  - name: Video
+    site: (Youtube)
+    link:
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+newsouth03:
+  - name: Video
+    site: (Youtube)
+    link: https://www.youtube.com/watch?v=0LN-C4HKLj8
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link:
+    size:
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link:
+    size:
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link:
+    size: <50KB
+    format: .srt
+
+newsouth04:
+  - name: Video
+    site: (Youtube)
+    link: https://www.youtube.com/watch?v=wFJx2ZRrVEQ
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link: https://www.dropbox.com/s/mzdthnv8manhp48/2021-07-10-newsouth04.webm?dl=1
+    size: 29MB
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link: https://www.dropbox.com/s/duu9jl612ptl6cj/2021-07-10-newsouth04.opus?dl=1
+    size: 1.9MB
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link: https://www.dropbox.com/s/y2ko4jhkb488s78/2021-07-10-newsouth04.srt?dl=1
+    size: <50KB
+    format: .srt
+
 newsouth05:
   - name: Video
     site: (Youtube)
@@ -38,26 +610,5 @@ newsouth06:
   - name: Subtitle
     site: (Dropbox)
     link: https://www.dropbox.com/s/ndyuxo6pqez25et/2021-09-11-newsouth06.srt?dl=1
-    size: <50KB
-    format: .srt
-template:
-  - name: Video
-    site: (Youtube)
-    link:
-    size: High Data
-    format: Stream
-  - name: Video
-    site: (Dropbox)
-    link:
-    size:
-    format: .webm
-  - name: Audio
-    site: (Dropbox)
-    link:
-    size:
-    format: .opus
-  - name: Subtitle
-    site: (Dropbox)
-    link:
     size: <50KB
     format: .srt
