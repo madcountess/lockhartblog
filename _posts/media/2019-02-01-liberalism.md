@@ -5,10 +5,6 @@ date: 2019-02-01
 headline: Liberalism Isn't Helping Anybody (The Problem 01)
 summary: First Thing's First, Own The Libs
 ---
-[Video (High Data/Stream) {Youtube}](https://www.youtube.com/watch?v=1ML8qCNCcJ0)  
-[Video (18.3MB .webm) {Dropbox}](https://www.dropbox.com/s/gub2l9ie3zs3bf6/2019-02-01-liberalism.webm?dl=1)  
-[Audio (1.6MB .opus) {Dropbox}](https://www.dropbox.com/s/bkyti7zvjd0ek5i/2019-02-01-liberalism.opus?dl=1)  
-Subtitles: In Progress
 
 Ahoy hoy, I am Luna!  
 Today we will talk about the Liberal ideology, so let's get a definition.

@@ -612,3 +612,24 @@ newsouth06:
     link: https://www.dropbox.com/s/ndyuxo6pqez25et/2021-09-11-newsouth06.srt?dl=1
     size: <50KB
     format: .srt
+    newsouth06:
+      - name: Video
+        site: (Youtube)
+        link: https://www.youtube.com/watch?v=x-bJpNDCEks
+        size: High Data
+        format: Stream
+      - name: Video
+        site: (Dropbox)
+        link: https://www.dropbox.com/s/y76hxhnh7i562jv/2021-09-19-newsouth07.webm?dl=1
+        size: 17.3MB
+        format: .webm
+      - name: Audio
+        site: (Dropbox)
+        link: https://www.dropbox.com/s/nyn516nhkwhsxmk/2021-09-19-newsouth07.opus?dl=1
+        size: 1.8MB
+        format: .opus
+      - name: Subtitle
+        site: (Dropbox)
+        link: https://www.dropbox.com/s/9itm1wz8rs60mps/2021-09-19-newsouth07.srt?dl=1
+        size: <50KB
+        format: .srt
