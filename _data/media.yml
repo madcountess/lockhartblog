@@ -5,6 +5,11 @@ template:
     size: High Data
     format: Stream
   - name: Video
+    site: (Odysee)
+    link:
+    size: Mid Data
+    format: Stream
+  - name: Video
     site: (Dropbox)
     link:
     size:
@@ -25,6 +30,11 @@ liberalism:
     site: (Youtube)
     link: https://www.youtube.com/watch?v=1ML8qCNCcJ0
     size: High Data
+    format: Stream
+  - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/liberalism-isn-t-helping-anyone-problem:e
+    size: Mid Data
     format: Stream
   - name: Video
     site: (Dropbox)
@@ -49,6 +59,11 @@ msm:
     size: High Data
     format: Stream
   - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/msm-bias-and-disingenuous-framework:e
+    size: Mid Data
+    format: Stream
+  - name: Video
     site: (Dropbox)
     link:
     size:
@@ -69,6 +84,11 @@ framework:
     site: (Youtube)
     link:
     size: High Data
+    format: Stream
+  - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/how-framework-determines-your-choices:7
+    size: Mid Data
     format: Stream
   - name: Video
     site: (Dropbox)
@@ -93,6 +113,11 @@ globalization:
     size: High Data
     format: Stream
   - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/globalization-ruins-everything-problem:b
+    size: Mid Data
+    format: Stream
+  - name: Video
     site: (Dropbox)
     link:
     size:
@@ -113,6 +138,11 @@ punishment:
     site: (Youtube)
     link:
     size: High Data
+    format: Stream
+  - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/liberalism-isn-t-helping-anyone-problem:e
+    size: Mid Data
     format: Stream
   - name: Video
     site: (Dropbox)
@@ -137,6 +167,11 @@ copyright:
     size: High Data
     format: Stream
   - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/copyright-intellectual-property-the:6
+    size: Mid Data
+    format: Stream
+  - name: Video
     site: (Dropbox)
     link:
     size:
@@ -157,6 +192,11 @@ individualism:
     site: (Youtube)
     link:
     size: High Data
+    format: Stream
+  - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/how-does-individualism-suppress:d
+    size: Mid Data
     format: Stream
   - name: Video
     site: (Dropbox)
@@ -181,6 +221,11 @@ msm2:
     size: High Data
     format: Stream
   - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/mainstream-media-pt-2-blood-soil-and:2
+    size: Mid Data
+    format: Stream
+  - name: Video
     site: (Dropbox)
     link:
     size:
@@ -201,6 +246,11 @@ experiences:
     site: (Youtube)
     link:
     size: High Data
+    format: Stream
+  - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/why-do-we-buy-experiences-study-break:f
+    size: Mid Data
     format: Stream
   - name: Video
     site: (Dropbox)
@@ -225,6 +275,11 @@ equality:
     size: High Data
     format: Stream
   - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/what-is-equality-of-outcome-and-why-does:e
+    size: Mid Data
+    format: Stream
+  - name: Video
     site: (Dropbox)
     link:
     size:
@@ -245,6 +300,11 @@ capitalism:
     site: (Youtube)
     link:
     size: High Data
+    format: Stream
+  - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/arguments-for-capitalism-are-mostly-bull:c
+    size: Mid Data
     format: Stream
   - name: Video
     site: (Dropbox)
@@ -269,6 +329,11 @@ wealth:
     size: High Data
     format: Stream
   - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/desperately-trying-to-contextualize:d
+    size: Mid Data
+    format: Stream
+  - name: Video
     site: (Dropbox)
     link:
     size:
@@ -289,6 +354,11 @@ intellectualism:
     site: (Youtube)
     link:
     size: High Data
+    format: Stream
+  - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/are-people-inherently-stupid:e
+    size: Mid Data
     format: Stream
   - name: Video
     site: (Dropbox)
@@ -313,6 +383,11 @@ police:
     size: High Data
     format: Stream
   - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/do-the-police-protect-and-serve-us-the:8
+    size: Mid Data
+    format: Stream
+  - name: Video
     site: (Dropbox)
     link:
     size:
@@ -333,6 +408,11 @@ powerblood:
     site: (Youtube)
     link:
     size: High Data
+    format: Stream
+  - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/blood-is-power-an-incitation-for-the:9
+    size: Mid Data
     format: Stream
   - name: Video
     site: (Dropbox)
@@ -357,6 +437,11 @@ history:
     size: High Data
     format: Stream
   - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/holistic-history-and-the-myth-of-the:0
+    size: Mid Data
+    format: Stream
+  - name: Video
     site: (Dropbox)
     link:
     size:
@@ -375,88 +460,102 @@ history:
 antifa:
   - name: Video
     site: (Youtube)
-    link:
+    link: https://www.youtube.com/watch?v=HzHv2mpcTXM
     size: High Data
     format: Stream
   - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/antifa-newsroom-get-mad-network-infowars:4
+    size: Mid Data
+    format: Stream
+  - name: Video
     site: (Dropbox)
-    link:
-    size:
+    link: https://www.dropbox.com/s/49x2tsqx4lbumjj/2020-09-14-antifa.webm?dl=1
+    size: 12.4MB
     format: .webm
   - name: Audio
     site: (Dropbox)
-    link:
-    size:
+    link: https://www.dropbox.com/s/i42udc0fhocnvet/2020-09-14-antifa.opus?dl=1
+    size: 0.55MB
     format: .opus
   - name: Subtitle
     site: (Dropbox)
-    link:
+    link: https://www.dropbox.com/s/d2pp6ih2d5keqwm/2020-09-14-antifa.vtt?dl=1
     size: <50KB
     format: .srt
 
 class:
   - name: Video
     site: (Youtube)
-    link:
+    link: https://www.youtube.com/watch?v=Usmj0c7b5mM
     size: High Data
     format: Stream
   - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/i-m-not-class-reductionist-video-poem:d
+    size: Mid Data
+    format: Stream
+  - name: Video
     site: (Dropbox)
-    link:
-    size:
+    link: https://www.dropbox.com/s/0icn7079zb62l1r/2020-10-03-class.webm?dl=1
+    size: 7.5MB
     format: .webm
   - name: Audio
     site: (Dropbox)
-    link:
-    size:
+    link: https://www.dropbox.com/s/5xfiilo4co0ymk7/2020-10-03-class.opus?dl=1
+    size: 375KB
     format: .opus
-  - name: Subtitle
-    site: (Dropbox)
-    link:
-    size: <50KB
-    format: .srt
 
 biden:
   - name: Video
     site: (Youtube)
-    link:
+    link: https://www.youtube.com/watch?v=dWKYe_bdTL4
     size: High Data
     format: Stream
   - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/why-are-people-reluctant-to-vote-for:7
+    size: Mid Data
+    format: Stream
+  - name: Video
     site: (Dropbox)
-    link:
-    size:
+    link: https://www.dropbox.com/s/apkfesmwhpebynp/2020-11-02-biden.webm?dl=1
+    size: 16.7MB
     format: .webm
   - name: Audio
     site: (Dropbox)
-    link:
-    size:
+    link: https://www.dropbox.com/s/2lzbi38bi49a8b4/2020-11-02-biden.opus?dl=1
+    size: 1.3MB
     format: .opus
   - name: Subtitle
     site: (Dropbox)
-    link:
+    link: https://www.dropbox.com/s/m43plqzuky9974g/2020-11-02-biden.vtt?dl=1
     size: <50KB
     format: .srt
 
 memes:
   - name: Video
     site: (Youtube)
-    link:
+    link: https://www.youtube.com/watch?v=0pysgBM94YI
     size: High Data
     format: Stream
   - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/wtf-is-money-motivation-instagram:d
+    size: Mid Data
+  - name: Video
     site: (Dropbox)
-    link:
-    size:
+    link: https://www.dropbox.com/s/j1rgxxyxlew3jb8/2020-11-29-memes.webm?dl=1
+    size: 19.1MB
     format: .webm
   - name: Audio
     site: (Dropbox)
-    link:
-    size:
+    link: https://www.dropbox.com/s/3r3dz9pka668s9f/2020-11-29-memes.opus?dl=1
+    size: 1.7MB
     format: .opus
   - name: Subtitle
     site: (Dropbox)
-    link:
+    link: https://www.dropbox.com/s/u0hzdoi9gv1w0zp/2020-11-29-memes.vtt?dl=1
     size: <50KB
     format: .srt
 
@@ -466,6 +565,10 @@ pe65000:
     link: https://www.youtube.com/watch?v=QrswoUcV_P8
     size: High Data
     format: Stream
+  - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/pennsylvania-6-5000-and-the-holistic:8
+    size: Mid Data
   - name: Video
     site: (Dropbox)
     link: https://www.dropbox.com/s/9mfs3xca0chr9pl/2021-02-20-pe65000.webm?dl=1
@@ -489,6 +592,10 @@ newsouth01:
     size: High Data
     format: Stream
   - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/invocation-for-a-new-south%2C-in:1
+    size: Mid Data
+  - name: Video
     site: (Dropbox)
     link: https://www.dropbox.com/s/8xw4wb5ksvu317j/2021-04-01-newsouth01.webm?dl=1
     size: 21.3MB
@@ -510,6 +617,10 @@ newsouth02:
     link: https://www.youtube.com/watch?v=AIXb5NIoisA
     size: High Data
     format: Stream
+  - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/new-south-radio-asian-hate%2C-class:8
+    size: Mid Data
   - name: Video
     site: (Dropbox)
     link: https://www.dropbox.com/s/z9xahk2q2dtrk12/2021-05-24-newsouth02.webm?dl=1
@@ -533,6 +644,10 @@ newsouth03:
     size: High Data
     format: Stream
   - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/new-south-radio-why-do-we-oppose-reform:e
+    size: Mid Data
+  - name: Video
     site: (Dropbox)
     link: https://www.dropbox.com/s/n50wgcuohmdfocs/2021-06-19-newsouth03.webm?dl=1
     size: 22MB
@@ -554,6 +669,10 @@ newsouth04:
     link: https://www.youtube.com/watch?v=wFJx2ZRrVEQ
     size: High Data
     format: Stream
+  - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/new-south-radio-was-1-6-an-fbi-op:1
+    size: Mid Data
   - name: Video
     site: (Dropbox)
     link: https://www.dropbox.com/s/mzdthnv8manhp48/2021-07-10-newsouth04.webm?dl=1
@@ -577,6 +696,10 @@ newsouth05:
     size: High Data
     format: Stream
   - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/new-south-radio-organize-then-act!:5
+    size: Mid Data
+  - name: Video
     site: (Dropbox)
     link: https://www.dropbox.com/s/82mccaepsnmggcl/2021-08-10-newsouth05.webm?dl=1
     size: 35.5MB
@@ -598,6 +721,10 @@ newsouth06:
     size: High Data
     format: Stream
   - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/9-11-was-kinda-our-bad-%28nsr-006%29:1
+    size: Mid Data
+  - name: Video
     site: (Dropbox)
     link: https://www.dropbox.com/s/kh9rxnmfklqwue0/2021-09-11-newsouth06.webm?dl=1
     size: 17.3MB
@@ -618,6 +745,10 @@ newsouth07:
     link: https://www.youtube.com/watch?v=x-bJpNDCEks
     size: High Data
     format: Stream
+  - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/what%27s-wrong-w-a-little-bloodshed-%28nsr:3
+    size: Mid Data
   - name: Video
     site: (Dropbox)
     link: https://www.dropbox.com/s/y76hxhnh7i562jv/2021-09-19-newsouth07.webm?dl=1
