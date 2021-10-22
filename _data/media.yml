@@ -764,3 +764,57 @@ newsouth07:
     link: https://www.dropbox.com/s/9itm1wz8rs60mps/2021-09-19-newsouth07.srt?dl=1
     size: <50KB
     format: .srt
+
+newsouth08:
+  - name: Video
+    site: (Youtube)
+    link: https://www.youtube.com/watch?v=oI59trpZ-I8
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/death-to-america!-(long-live-america!):4
+    size: Mid Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link: https://www.dropbox.com/s/xddcbg1sk31qgz6/2021-10-11-newsouth08.webm?dl=0
+    size: 16.66MB
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link: https://www.dropbox.com/s/3qvv5szryyo5ftb/2021-10-11-newsouth08.opus?dl=1
+    size: 4.3MB
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link: https://www.dropbox.com/s/eysp1xlif4k4x28/2021-10-11-newsouth08.srt?dl=1
+    size: <50KB
+    format: .srt
+
+newsouth09:
+  - name: Video
+    site: (Youtube)
+    link: https://www.youtube.com/watch?v=Ho5pUa5NcQ8
+    size: High Data
+    format: Stream
+  - name: Video
+    site: (Odysee)
+    link: https://odysee.com/@peoplesbayonet:6/structure-makes-organization,-cointelpro:0
+    size: Mid Data
+    format: Stream
+  - name: Video
+    site: (Dropbox)
+    link: https://www.dropbox.com/s/9w3u6mbssiprbwg/2021-10-21-newsouth09.webm?dl=1
+    size: 27.7MB
+    format: .webm
+  - name: Audio
+    site: (Dropbox)
+    link: https://www.dropbox.com/s/aw07zqgzcs9ppou/2021-10-21-newsouth09.opus?dl=1
+    size: 6.2MB
+    format: .opus
+  - name: Subtitle
+    site: (Dropbox)
+    link: https://www.dropbox.com/s/vjmbwx6dh2vfuzs/2021-10-21-newsouth09.srt?dl=1
+    size: <50KB
+    format: .srt
