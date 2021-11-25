@@ -29,7 +29,7 @@ no more conflation of Affection with Assault,
 and no more conflation of Freedom with Liberalism,  
 or Capitalism,  
 or Fascism,  
-or Patriotism,  
+or Nationalism,  
 or anything but Freedom.
 
 if all this is about is struggle,  
