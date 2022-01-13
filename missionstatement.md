@@ -14,7 +14,7 @@ We know they treat us like chattel because we're "disposable."
 We are not CHATTEL!  
 We are not DISPOSABLE!  
 We are not IDIOTS!  
-We are WORKERS and we **DO NOT COMPROMISE WITH THE TERRORISTIC THREATS OF BOSSES!**  
+We are WORKERS and we **DO NOT COMPROMISE WITH THE TERRORISTIC THREATS OF THE OWNERS!**  
 We are ***WORKERS*** and we have MADE the decision to organize and fight!  
 We have naught in common with the greedy parasite. Do they work? No. Do they get paid more than the people who do?  
 Yes.  
