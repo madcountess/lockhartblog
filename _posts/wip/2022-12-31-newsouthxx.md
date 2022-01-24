@@ -1,13 +1,13 @@
 ---
 layout: post
-section: media
-date: 20--
+section: wip
+date: 2024-01-01
 headline:
 summary:
 lindex:
 ---
 Ahoy hoy! I'm Luna, the People's Bayonet, that's peoplesbayo.net, comin' at you as-live from occupied Georgia!  
-My Friends, My Family, My Fellow New Southerners, Subscribers Big and Small, 
+My Friends, My Family, My Fellow New Southerners, Subscribers Big and Small,
 
 [...]
 
