@@ -13,9 +13,12 @@ You there! Lost soul! Come in, out of the rain, come in out of the cold, come in
 Your life has felt, at times, purposeless, yes?
 at times, were you told to turn towards the church or the parties of the ruling class, yes? at times, you considered it, entertained it, and maybe even indulged it, yes?
 but the purpose given by most organized religions is false.
-the purpose given by the ruling class is always a false one.
+the purpose given by the owning class is always a false one.
 If there is a god, I was taught to fight for the downtrodden masses against rich oppressors.
-If there is no god, I was taught to fight for the downtrodden masses against the ruling class.
+If there is no god, I was taught to fight for the downtrodden masses against the owning class.
+
+
+
 Will you pick up the mantle and fight for the downtrodden masses with me, friend?
 
 Make sure to subscribe, and go to people's bayonet, that's peoplesbayo.net for sources and transcript as well as ways to fund this operation.  
